@@ -1,1 +1,13 @@
 /AutoMailSave/bin
+/AutoMailSave/AutoMailSave_TemporaryKey.pfx
+
+OfficeAddInSetup\OfficeAddInSetup\Express\SingleImage\Reports*/
+OfficeAddInSetup\OfficeAddInSetup\Express\SingleImage\Reports*/
+OfficeAddInSetup\OfficeAddInSetup\Express\Interm*/
+/OfficeAddInSetup/OfficeAddInSetup/Express/SingleImage/LogFiles
+
+AutoMailSave/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+AutoMailSave/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+OfficeAddInSetup/OfficeAddInSetup/Express/Interm/_IsIcoRes.Exe
+OfficeAddInSetup\OfficeAddInSetup\Express\SingleImage\Reports*/
+/OfficeAddInSetup/OfficeAddInSetup/Express/SingleImage/Reports

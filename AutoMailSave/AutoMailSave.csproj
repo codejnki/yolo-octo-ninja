@@ -168,6 +168,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="AutoMailSave_TemporaryKey.pfx" />
+    <None Include="License.rtf" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
